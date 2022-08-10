@@ -1,0 +1,90 @@
+C:\Users\gonil\source\repos\NirSemesterB\BLLings\bin\Debug\BLLings.dll
+C:\Users\gonil\source\repos\NirSemesterB\BLLings\bin\Debug\BLLings.pdb
+C:\Users\gonil\source\repos\NirSemesterB\BLLings\bin\Debug\DALings.dll
+C:\Users\gonil\source\repos\NirSemesterB\BLLings\bin\Debug\DALings.pdb
+C:\Users\gonil\source\repos\NirSemesterB\BLLings\obj\Debug\BLLings.csproj.AssemblyReference.cache
+C:\Users\gonil\source\repos\NirSemesterB\BLLings\obj\Debug\BLLings.csproj.CoreCompileInputs.cache
+C:\Users\gonil\source\repos\NirSemesterB\BLLings\obj\Debug\BLLings.csproj.CopyComplete
+C:\Users\gonil\source\repos\NirSemesterB\BLLings\obj\Debug\BLLings.dll
+C:\Users\gonil\source\repos\NirSemesterB\BLLings\obj\Debug\BLLings.pdb
+C:\Users\gonil\source\repos\NirSemesterB\BLLings\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gonil\source\repos\NirSemesterB\BLLings\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\gonil\source\repos\NirSemesterB\BLLings\bin\Debug\System.Web.Cors.dll
+C:\Users\gonil\source\repos\NirSemesterB\BLLings\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\gonil\source\repos\NirSemesterB\BLLings\bin\Debug\System.Web.Http.dll
+C:\Users\gonil\source\repos\NirSemesterB\BLLings\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gonil\source\repos\NirSemesterB\BLLings\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\gonil\source\repos\NirSemesterB\BLLings\bin\Debug\System.Web.Http.xml
+C:\Users\gonil\source\repos\NirSemesterB\BLLings\bin\Debug\System.Web.Http.Cors.xml
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\BLLings\bin\Debug\BLLings.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\BLLings\bin\Debug\BLLings.pdb
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\BLLings\bin\Debug\DALings.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\BLLings\bin\Debug\Newtonsoft.Json.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\BLLings\bin\Debug\System.Net.Http.Formatting.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\BLLings\bin\Debug\System.Web.Cors.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\BLLings\bin\Debug\System.Web.Http.Cors.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\BLLings\bin\Debug\System.Web.Http.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\BLLings\bin\Debug\DALings.pdb
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\BLLings\bin\Debug\Newtonsoft.Json.xml
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\BLLings\bin\Debug\System.Net.Http.Formatting.xml
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\BLLings\bin\Debug\System.Web.Http.xml
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\BLLings\bin\Debug\System.Web.Http.Cors.xml
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\BLLings\obj\Debug\BLLings.csproj.AssemblyReference.cache
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\BLLings\obj\Debug\BLLings.csproj.CoreCompileInputs.cache
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\BLLings\obj\Debug\BLLings.csproj.CopyComplete
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\BLLings\obj\Debug\BLLings.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\BLLings\obj\Debug\BLLings.pdb
+C:\Users\yuval\Desktop\NirSemesterB\BLLings\bin\Debug\BLLings.dll
+C:\Users\yuval\Desktop\NirSemesterB\BLLings\bin\Debug\BLLings.pdb
+C:\Users\yuval\Desktop\NirSemesterB\BLLings\bin\Debug\DALings.dll
+C:\Users\yuval\Desktop\NirSemesterB\BLLings\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yuval\Desktop\NirSemesterB\BLLings\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\yuval\Desktop\NirSemesterB\BLLings\bin\Debug\System.Web.Cors.dll
+C:\Users\yuval\Desktop\NirSemesterB\BLLings\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\yuval\Desktop\NirSemesterB\BLLings\bin\Debug\System.Web.Http.dll
+C:\Users\yuval\Desktop\NirSemesterB\BLLings\bin\Debug\DALings.pdb
+C:\Users\yuval\Desktop\NirSemesterB\BLLings\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yuval\Desktop\NirSemesterB\BLLings\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\yuval\Desktop\NirSemesterB\BLLings\bin\Debug\System.Web.Http.xml
+C:\Users\yuval\Desktop\NirSemesterB\BLLings\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\yuval\Desktop\NirSemesterB\BLLings\obj\Debug\BLLings.csprojAssemblyReference.cache
+C:\Users\yuval\Desktop\NirSemesterB\BLLings\obj\Debug\BLLings.csproj.CoreCompileInputs.cache
+C:\Users\yuval\Desktop\NirSemesterB\BLLings\obj\Debug\BLLings.csproj.CopyComplete
+C:\Users\yuval\Desktop\NirSemesterB\BLLings\obj\Debug\BLLings.dll
+C:\Users\yuval\Desktop\NirSemesterB\BLLings\obj\Debug\BLLings.pdb
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\BLLings\bin\Debug\BLLings.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\BLLings\bin\Debug\BLLings.pdb
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\BLLings\bin\Debug\DALings.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\BLLings\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\BLLings\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\BLLings\bin\Debug\System.Web.Cors.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\BLLings\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\BLLings\bin\Debug\System.Web.Http.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\BLLings\bin\Debug\DALings.pdb
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\BLLings\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\BLLings\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\BLLings\bin\Debug\System.Web.Http.xml
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\BLLings\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\BLLings\obj\Debug\BLLings.csprojAssemblyReference.cache
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\BLLings\obj\Debug\BLLings.csproj.CoreCompileInputs.cache
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\BLLings\obj\Debug\BLLings.csproj.CopyComplete
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\BLLings\obj\Debug\BLLings.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\BLLings\obj\Debug\BLLings.pdb
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\BLLings\obj\Debug\BLLings.csproj.AssemblyReference.cache
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\BLLings\obj\Debug\BLLings.csproj.CoreCompileInputs.cache
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\BLLings\obj\Debug\BLLings.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\BLLings\obj\Debug\BLLings.pdb
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\BLLings\bin\Debug\BLLings.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\BLLings\bin\Debug\BLLings.pdb
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\BLLings\bin\Debug\DALings.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\BLLings\bin\Debug\Newtonsoft.Json.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\BLLings\bin\Debug\System.Net.Http.Formatting.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\BLLings\bin\Debug\System.Web.Cors.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\BLLings\bin\Debug\System.Web.Http.Cors.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\BLLings\bin\Debug\System.Web.Http.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\BLLings\bin\Debug\DALings.pdb
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\BLLings\bin\Debug\Newtonsoft.Json.xml
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\BLLings\bin\Debug\System.Net.Http.Formatting.xml
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\BLLings\bin\Debug\System.Web.Http.xml
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\BLLings\bin\Debug\System.Web.Http.Cors.xml
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\BLLings\obj\Debug\BLLings.csproj.CopyComplete

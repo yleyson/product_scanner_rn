@@ -1,0 +1,80 @@
+C:\Users\gonil\source\repos\NirSemesterB\DALings\bin\Debug\DALings.dll
+C:\Users\gonil\source\repos\NirSemesterB\DALings\bin\Debug\DALings.pdb
+C:\Users\gonil\source\repos\NirSemesterB\DALings\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gonil\source\repos\NirSemesterB\DALings\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\gonil\source\repos\NirSemesterB\DALings\bin\Debug\System.Web.Http.dll
+C:\Users\gonil\source\repos\NirSemesterB\DALings\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gonil\source\repos\NirSemesterB\DALings\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\gonil\source\repos\NirSemesterB\DALings\bin\Debug\System.Web.Http.xml
+C:\Users\gonil\source\repos\NirSemesterB\DALings\obj\Debug\DALings.csproj.AssemblyReference.cache
+C:\Users\gonil\source\repos\NirSemesterB\DALings\obj\Debug\DALings.csproj.CoreCompileInputs.cache
+C:\Users\gonil\source\repos\NirSemesterB\DALings\obj\Debug\DALings.csproj.CopyComplete
+C:\Users\gonil\source\repos\NirSemesterB\DALings\obj\Debug\DALings.dll
+C:\Users\gonil\source\repos\NirSemesterB\DALings\obj\Debug\DALings.pdb
+C:\Users\gonil\source\repos\NirSemesterB\DALings\bin\Debug\System.Web.Cors.dll
+C:\Users\gonil\source\repos\NirSemesterB\DALings\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\gonil\source\repos\NirSemesterB\DALings\bin\Debug\System.Web.Http.Cors.xml
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\DALings\bin\Debug\DALings.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\DALings\bin\Debug\DALings.pdb
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\DALings\bin\Debug\Newtonsoft.Json.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\DALings\bin\Debug\System.Net.Http.Formatting.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\DALings\bin\Debug\System.Web.Cors.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\DALings\bin\Debug\System.Web.Http.Cors.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\DALings\bin\Debug\System.Web.Http.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\DALings\bin\Debug\Newtonsoft.Json.xml
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\DALings\bin\Debug\System.Net.Http.Formatting.xml
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\DALings\bin\Debug\System.Web.Http.xml
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\DALings\bin\Debug\System.Web.Http.Cors.xml
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\DALings\obj\Debug\DALIngs.csproj.AssemblyReference.cache
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\DALings\obj\Debug\DALIngs.csproj.CoreCompileInputs.cache
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\DALings\obj\Debug\DALIngs.csproj.CopyComplete
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\DALings\obj\Debug\DALings.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\DALings\obj\Debug\DALings.pdb
+C:\Users\yuval\Desktop\NirSemesterB\DALings\bin\Debug\DALings.dll
+C:\Users\yuval\Desktop\NirSemesterB\DALings\bin\Debug\DALings.pdb
+C:\Users\yuval\Desktop\NirSemesterB\DALings\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yuval\Desktop\NirSemesterB\DALings\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\yuval\Desktop\NirSemesterB\DALings\bin\Debug\System.Web.Cors.dll
+C:\Users\yuval\Desktop\NirSemesterB\DALings\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\yuval\Desktop\NirSemesterB\DALings\bin\Debug\System.Web.Http.dll
+C:\Users\yuval\Desktop\NirSemesterB\DALings\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yuval\Desktop\NirSemesterB\DALings\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\yuval\Desktop\NirSemesterB\DALings\bin\Debug\System.Web.Http.xml
+C:\Users\yuval\Desktop\NirSemesterB\DALings\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\yuval\Desktop\NirSemesterB\DALings\obj\Debug\DALIngs.csprojAssemblyReference.cache
+C:\Users\yuval\Desktop\NirSemesterB\DALings\obj\Debug\DALIngs.csproj.CoreCompileInputs.cache
+C:\Users\yuval\Desktop\NirSemesterB\DALings\obj\Debug\DALIngs.csproj.CopyComplete
+C:\Users\yuval\Desktop\NirSemesterB\DALings\obj\Debug\DALings.dll
+C:\Users\yuval\Desktop\NirSemesterB\DALings\obj\Debug\DALings.pdb
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\DALings\bin\Debug\DALings.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\DALings\bin\Debug\DALings.pdb
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\DALings\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\DALings\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\DALings\bin\Debug\System.Web.Cors.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\DALings\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\DALings\bin\Debug\System.Web.Http.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\DALings\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\DALings\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\DALings\bin\Debug\System.Web.Http.xml
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\DALings\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\DALings\obj\Debug\DALIngs.csprojAssemblyReference.cache
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\DALings\obj\Debug\DALIngs.csproj.CoreCompileInputs.cache
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\DALings\obj\Debug\DALIngs.csproj.CopyComplete
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\DALings\obj\Debug\DALings.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\DALings\obj\Debug\DALings.pdb
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\DALings\obj\Debug\DALIngs.csproj.AssemblyReference.cache
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\DALings\obj\Debug\DALIngs.csproj.CoreCompileInputs.cache
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\DALings\obj\Debug\DALings.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\DALings\obj\Debug\DALings.pdb
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\DALings\bin\Debug\DALings.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\DALings\bin\Debug\DALings.pdb
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\DALings\bin\Debug\Newtonsoft.Json.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\DALings\bin\Debug\System.Net.Http.Formatting.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\DALings\bin\Debug\System.Web.Cors.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\DALings\bin\Debug\System.Web.Http.Cors.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\DALings\bin\Debug\System.Web.Http.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\DALings\bin\Debug\Newtonsoft.Json.xml
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\DALings\bin\Debug\System.Net.Http.Formatting.xml
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\DALings\bin\Debug\System.Web.Http.xml
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\DALings\bin\Debug\System.Web.Http.Cors.xml
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\DALings\obj\Debug\DALIngs.csproj.CopyComplete

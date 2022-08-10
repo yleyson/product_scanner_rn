@@ -1,0 +1,460 @@
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\NirSemesterB.dll.config
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\NirSemesterB.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\NirSemesterB.pdb
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\csc.exe
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\csc.exe.config
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\csc.rsp
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\csi.exe
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\csi.exe.config
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\csi.rsp
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.AppContext.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.Console.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.IO.Compression.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.Net.Http.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.Net.Sockets.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.ValueTuple.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\vbc.exe
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\vbc.exe.config
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\vbc.rsp
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\VBCSCompiler.exe
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\Antlr3.Runtime.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\BLLings.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\DALings.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\Newtonsoft.Json.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\System.Net.Http.Formatting.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\System.Web.Helpers.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\System.Web.Http.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\System.Web.Http.WebHost.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\System.Web.Mvc.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\System.Web.Optimization.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\System.Web.Razor.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.Razor.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\WebGrease.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\BLLings.pdb
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\DALings.pdb
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\Newtonsoft.Json.xml
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\System.Net.Http.Formatting.xml
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\System.Web.Helpers.xml
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\System.Web.Http.xml
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\System.Web.Http.WebHost.xml
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\System.Web.Mvc.xml
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\System.Web.Optimization.xml
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\System.Web.Razor.xml
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.xml
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.Razor.xml
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\Antlr3.Runtime.pdb
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\obj\Debug\NirSemesterB.csproj.AssemblyReference.cache
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\obj\Debug\NirSemesterB.csproj.CoreCompileInputs.cache
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\obj\Debug\NirSemesterB.csproj.CopyComplete
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\obj\Debug\NirSemesterB.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\obj\Debug\NirSemesterB.pdb
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\System.Web.Cors.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\System.Web.Http.Cors.dll
+C:\Users\gonil\source\repos\NirSemesterB\NirSemesterB\bin\System.Web.Http.Cors.xml
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\obj\Debug\NirSemesterB.csproj.AssemblyReference.cache
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\obj\Debug\NirSemesterB.csproj.CoreCompileInputs.cache
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\obj\Debug\NirSemesterB.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\obj\Debug\NirSemesterB.pdb
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\NirSemesterB.dll.config
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\NirSemesterB.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\NirSemesterB.pdb
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\csc.exe
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\csc.exe.config
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\csc.rsp
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\csi.exe
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\csi.exe.config
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\csi.rsp
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.Managed.Core.targets
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.AppContext.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.Collections.Immutable.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.Console.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.Globalization.Calendars.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.IO.Compression.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.IO.FileSystem.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.Net.Http.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.Net.Sockets.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.Reflection.Metadata.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.ValueTuple.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.Xml.XPath.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\vbc.exe
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\vbc.exe.config
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\vbc.rsp
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\VBCSCompiler.exe
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\roslyn\VBCSCompiler.exe.config
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\Antlr3.Runtime.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\BLLings.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\DALings.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\Microsoft.Web.Infrastructure.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\Newtonsoft.Json.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\System.Net.Http.Formatting.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\System.Web.Cors.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\System.Web.Helpers.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\System.Web.Http.Cors.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\System.Web.Http.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\System.Web.Http.WebHost.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\System.Web.Mvc.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\System.Web.Optimization.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\System.Web.Razor.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.Deployment.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.Razor.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\WebGrease.dll
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\BLLings.pdb
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\DALings.pdb
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\System.Net.Http.Formatting.xml
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\System.Web.Http.xml
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\System.Web.Http.Cors.xml
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\Newtonsoft.Json.xml
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\System.Web.Helpers.xml
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\System.Web.Http.WebHost.xml
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\System.Web.Mvc.xml
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\System.Web.Optimization.xml
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\System.Web.Razor.xml
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.xml
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.Deployment.xml
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.Razor.xml
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\Antlr3.Runtime.pdb
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\רופין\C# פרוייקטים סמסטר ב\NirSemesterB\NirSemesterB\obj\Debug\NirSemesterB.csproj.CopyComplete
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\NirSemesterB.dll.config
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\NirSemesterB.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\NirSemesterB.pdb
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\csc.exe
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\csc.exe.config
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\csc.rsp
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\csi.exe
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\csi.exe.config
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\csi.rsp
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.AppContext.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.Console.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.IO.Compression.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.Net.Http.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.Net.Sockets.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.ValueTuple.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\vbc.exe
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\vbc.exe.config
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\vbc.rsp
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\VBCSCompiler.exe
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\Antlr3.Runtime.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\BLLings.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\DALings.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\Newtonsoft.Json.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\System.Net.Http.Formatting.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\System.Web.Cors.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\System.Web.Helpers.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\System.Web.Http.Cors.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\System.Web.Http.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\System.Web.Http.WebHost.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\System.Web.Mvc.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\System.Web.Optimization.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\System.Web.Razor.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.Razor.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\WebGrease.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\BLLings.pdb
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\DALings.pdb
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\System.Net.Http.Formatting.xml
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\System.Web.Http.xml
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\System.Web.Http.Cors.xml
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\Newtonsoft.Json.xml
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\System.Web.Helpers.xml
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\System.Web.Http.WebHost.xml
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\System.Web.Mvc.xml
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\System.Web.Optimization.xml
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\System.Web.Razor.xml
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.xml
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.Razor.xml
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\Antlr3.Runtime.pdb
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\obj\Debug\NirSemesterB.csprojAssemblyReference.cache
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\obj\Debug\NirSemesterB.csproj.CoreCompileInputs.cache
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\obj\Debug\NirSemesterB.csproj.CopyComplete
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\obj\Debug\NirSemesterB.dll
+C:\Users\yuval\Desktop\NirSemesterB\NirSemesterB\obj\Debug\NirSemesterB.pdb
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\NirSemesterB.dll.config
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\NirSemesterB.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\NirSemesterB.pdb
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\csc.exe
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\csc.exe.config
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\csc.rsp
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\csi.exe
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\csi.exe.config
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\csi.rsp
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.AppContext.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Console.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.IO.Compression.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Net.Http.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Net.Sockets.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.ValueTuple.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\vbc.exe
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\vbc.exe.config
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\vbc.rsp
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\VBCSCompiler.exe
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\Antlr3.Runtime.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\BLLings.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\DALings.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\Newtonsoft.Json.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Net.Http.Formatting.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Cors.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Helpers.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Http.Cors.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Http.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Http.WebHost.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Mvc.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Optimization.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Razor.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.Razor.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\WebGrease.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\BLLings.pdb
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\DALings.pdb
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Net.Http.Formatting.xml
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Http.xml
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Http.Cors.xml
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\Newtonsoft.Json.xml
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Helpers.xml
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Http.WebHost.xml
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Mvc.xml
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Optimization.xml
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Razor.xml
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.xml
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.Razor.xml
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\Antlr3.Runtime.pdb
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\obj\Debug\NirSemesterB.csprojAssemblyReference.cache
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\obj\Debug\NirSemesterB.csproj.CoreCompileInputs.cache
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\obj\Debug\NirSemesterB.csproj.CopyComplete
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\obj\Debug\NirSemesterB.dll
+C:\Users\yuval\Desktop\web_api_cish\NirSemesterB\NirSemesterB\obj\Debug\NirSemesterB.pdb
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\obj\Debug\NirSemesterB.csproj.AssemblyReference.cache
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\obj\Debug\NirSemesterB.csproj.CoreCompileInputs.cache
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\obj\Debug\NirSemesterB.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\obj\Debug\NirSemesterB.pdb
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\NirSemesterB.dll.config
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\NirSemesterB.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\NirSemesterB.pdb
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\csc.exe
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\csc.exe.config
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\csc.rsp
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\csi.exe
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\csi.exe.config
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\csi.rsp
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.Managed.Core.targets
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.AppContext.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Collections.Immutable.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Console.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Globalization.Calendars.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.IO.Compression.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.IO.FileSystem.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Net.Http.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Net.Sockets.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Reflection.Metadata.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.ValueTuple.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Xml.XPath.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\vbc.exe
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\vbc.exe.config
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\vbc.rsp
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\VBCSCompiler.exe
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\roslyn\VBCSCompiler.exe.config
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\Antlr3.Runtime.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\BLLings.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\DALings.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\Microsoft.Web.Infrastructure.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\Newtonsoft.Json.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Net.Http.Formatting.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Cors.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Helpers.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Http.Cors.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Http.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Http.WebHost.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Mvc.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Optimization.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Razor.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.Deployment.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.Razor.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\WebGrease.dll
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\BLLings.pdb
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\DALings.pdb
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Net.Http.Formatting.xml
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Http.xml
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Http.Cors.xml
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\Newtonsoft.Json.xml
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Helpers.xml
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Http.WebHost.xml
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Mvc.xml
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Optimization.xml
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.Razor.xml
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.xml
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.Deployment.xml
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\System.Web.WebPages.Razor.xml
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\Antlr3.Runtime.pdb
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\רופין\C# פרוייקטים סמסטר ב\web_api_cisharp_gonen_yuval\web_api_cish\NirSemesterB\NirSemesterB\obj\Debug\NirSemesterB.csproj.CopyComplete

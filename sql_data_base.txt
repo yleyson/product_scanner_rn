@@ -1,0 +1,577 @@
+USE [master]
+GO
+
+create database product_scanner
+use product_scanner
+SET DATEFORMAT dmy
+
+/****** Object:  Database [db_a79b5b_proj10]    Script Date: 10/08/2022 12:13:33 ******/
+
+CREATE TABLE [dbo].[USERS](
+	[id] [int] IDENTITY(1,1) NOT NULL,
+	[pass] [nvarchar](20) NULL,
+	[user_name] [nvarchar](30) NULL,
+	[user_mail] [nvarchar](40) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+
+/****** Object:  Table [dbo].[PRODUCT]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[PRODUCT](
+	[product_code] [int] IDENTITY(1,1) NOT NULL,
+	[category_code] [int] NULL,
+	[product_name] [nvarchar](30) NULL,
+	[image_product] [nvarchar](max) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[product_code] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
+
+/****** Object:  Table [dbo].[CATEGORY]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[CATEGORY](
+	[category_code] [int] IDENTITY(1,1) NOT NULL,
+	[category_name] [nvarchar](20) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[category_code] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+
+/****** Object:  Table [dbo].[PRODUCTS_TO_USER]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[PRODUCTS_TO_USER](
+	[id] [int] NOT NULL,
+	[product_code] [int] NOT NULL,
+	[date_of_scan] [date] NOT NULL,
+	[name_of_product] [nvarchar](20) NULL,
+	[product_image] [nvarchar](max) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[id] ASC,
+	[product_code] ASC,
+	[date_of_scan] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
+/****** Object:  Table [dbo].[INGRIDENTS]    Script Date: 10/08/2022 12:13:37 ******/
+CREATE TABLE [dbo].[INGRIDENTS](
+	[ing_code] [int] IDENTITY(1,1) NOT NULL,
+	[ing_name] [nvarchar](40) NULL,
+	[descript] [nvarchar](max) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[ing_code] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
+
+/****** Object:  Table [dbo].[ING_IN_PRODCUT]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[ING_IN_PRODCUT](
+	[product_code] [int] NOT NULL,
+	[ing_code] [int] NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[product_code] ASC,
+	[ing_code] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+
+/****** Object:  View [dbo].[SHOW_ALL_PRODUCTS_TO_USER]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+CREATE VIEW [dbo].[SHOW_ALL_PRODUCTS_TO_USER]
+AS
+SELECT dbo.CATEGORY.category_name, dbo.PRODUCTS_TO_USER.name_of_product, dbo.USERS.user_name,dbo.USERS.id
+FROM     dbo.CATEGORY INNER JOIN
+                  dbo.PRODUCT ON dbo.CATEGORY.category_code = dbo.PRODUCT.category_code INNER JOIN
+                  dbo.PRODUCTS_TO_USER ON dbo.PRODUCT.product_code = dbo.PRODUCTS_TO_USER.product_code INNER JOIN
+                  dbo.USERS ON dbo.PRODUCTS_TO_USER.id = dbo.USERS.id
+GO
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+
+/****** Object:  View [dbo].[INGRIDENTS_IN_PRODUCT]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE VIEW [dbo].[INGRIDENTS_IN_PRODUCT]
+AS
+SELECT dbo.INGRIDENTS.ing_name, dbo.INGRIDENTS.descript, dbo.PRODUCT.product_code, dbo.PRODUCT.product_name
+FROM     dbo.ING_IN_PRODCUT INNER JOIN
+                  dbo.INGRIDENTS ON dbo.ING_IN_PRODCUT.ing_code = dbo.INGRIDENTS.ing_code INNER JOIN
+                  dbo.PRODUCT ON dbo.ING_IN_PRODCUT.product_code = dbo.PRODUCT.product_code
+
+GO
+
+
+/****** Object:  Table [dbo].[FAVORITES]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[FAVORITES](
+	[Name_Of_Product] [nvarchar](40) NULL,
+	[id_prod] [int] NULL,
+	[ID] [int] NOT NULL,
+	[DateOf] [date] NULL,
+	[product_image] [nvarchar](max) NULL
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
+
+/****** Object:  Table [dbo].[image]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[image](
+	[image] [image] NULL
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
+
+/****** Object:  Table [dbo].[INGS]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[INGS](
+	[Ing_Name] [nvarchar](30) NULL,
+	[descript] [nvarchar](max) NULL,
+	[product_code] [int] NULL,
+	[product_name] [nvarchar](30) NULL
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
+
+/****** Object:  Table [dbo].[USERLOGIN]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[USERLOGIN](
+	[ID] [int] NULL,
+	[user_name] [nvarchar](max) NULL,
+	[user_pass] [nvarchar](max) NULL,
+	[user_mail] [nvarchar](max) NULL
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+ALTER TABLE [dbo].[ING_IN_PRODCUT]  WITH CHECK ADD  CONSTRAINT [FK_ing_codeING_IN_PRODCUT] FOREIGN KEY([ing_code])
+REFERENCES [dbo].[INGRIDENTS] ([ing_code])
+GO
+ALTER TABLE [dbo].[ING_IN_PRODCUT] CHECK CONSTRAINT [FK_ing_codeING_IN_PRODCUT]
+GO
+ALTER TABLE [dbo].[ING_IN_PRODCUT]  WITH CHECK ADD  CONSTRAINT [FK_product_codeING_IN_PRODCUT] FOREIGN KEY([product_code])
+REFERENCES [dbo].[PRODUCT] ([product_code])
+GO
+ALTER TABLE [dbo].[ING_IN_PRODCUT] CHECK CONSTRAINT [FK_product_codeING_IN_PRODCUT]
+GO
+ALTER TABLE [dbo].[PRODUCT]  WITH CHECK ADD  CONSTRAINT [FK_category_codePRODUCT] FOREIGN KEY([category_code])
+REFERENCES [dbo].[CATEGORY] ([category_code])
+GO
+ALTER TABLE [dbo].[PRODUCT] CHECK CONSTRAINT [FK_category_codePRODUCT]
+GO
+ALTER TABLE [dbo].[PRODUCTS_TO_USER]  WITH CHECK ADD  CONSTRAINT [FK_idPRODUCTS_TO_USER] FOREIGN KEY([id])
+REFERENCES [dbo].[USERS] ([id])
+GO
+ALTER TABLE [dbo].[PRODUCTS_TO_USER] CHECK CONSTRAINT [FK_idPRODUCTS_TO_USER]
+GO
+ALTER TABLE [dbo].[PRODUCTS_TO_USER]  WITH CHECK ADD  CONSTRAINT [FK_product_codePRODUCTS_TO_USER] FOREIGN KEY([product_code])
+REFERENCES [dbo].[PRODUCT] ([product_code])
+GO
+ALTER TABLE [dbo].[PRODUCTS_TO_USER] CHECK CONSTRAINT [FK_product_codePRODUCTS_TO_USER]
+GO
+
+
+
+/****** Object:  StoredProcedure [dbo].[AddCategory]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+create proc [dbo].[AddCategory]
+@name nvarchar(40)
+as
+BEGIN
+IF not EXISTS(select [category_name] from CATEGORY where [category_name]=@name)
+INSERT INTO CATEGORY([category_name]) Values(@name)
+END
+GO
+
+
+
+/****** Object:  StoredProcedure [dbo].[ADDINGS]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROC [dbo].[ADDINGS]
+(@name nvarchar(40),@desc nvarchar(max),@product_code int)
+AS
+BEGIN
+IF not EXISTS(select @name from INGRIDENTS where ing_name=@name)
+INSERT INTO INGRIDENTS(ing_name,descript) Values(@name,@desc)
+Declare @ing_code int
+set @ing_code = (select [ing_code] from INGRIDENTS where ing_name=@name)
+INSERT INTO ING_IN_PRODCUT([product_code],[ing_code]) Values(@product_code,@ing_code)
+END
+GO
+
+
+/****** Object:  StoredProcedure [dbo].[ADDPRODUCT]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROC [dbo].[ADDPRODUCT]
+(@prod_name nvarchar(40),@catN_name nvarchar(40))
+AS
+BEGIN
+Declare @code int
+SET @code=(SELECT [category_code] from CATEGORY where   [category_name] = @catN_name)
+INSERT [dbo].[PRODUCT]([category_code],[product_name],[image_product])
+VALUES(@code,@prod_name,'')
+END
+GO
+
+
+/****** Object:  StoredProcedure [dbo].[AmountOfScan]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROC [dbo].[AmountOfScan]
+AS
+BEGIN
+select [name_of_product],[product_code], count([product_code]) as Amount
+from [dbo].[PRODUCTS_TO_USER]
+Group By [name_of_product],[product_code]
+END
+GO
+
+
+/****** Object:  StoredProcedure [dbo].[backup_daily_SQLPROJ]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+--גיבוי יומי של בבסיס נתונים
+CREATE PROC [dbo].[backup_daily_SQLPROJ](@TimeToRun varchar(20))
+AS
+BEGIN
+	while(1=1)
+	begin
+	waitfor time @timeToRun
+	BEGIN
+	exec proc_backup_databasePROJ 'D:\backup_PROJ\'
+	return
+	END
+	END
+END
+GO
+
+
+/****** Object:  StoredProcedure [dbo].[CHANGENAME]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+--טרנזקצייה לבדיקת לעדכון קטגוריה קיימת בטבלת קטגוריה
+CREATE PROC [dbo].[CHANGENAME]
+(@CATEGORY_CODE INT,@CATEGORY_NAME NVARCHAR(30))
+AS
+BEGIN TRANSACTION
+UPDATE CATEGORY
+  SET category_name = @CATEGORY_NAME
+  WHERE category_code = @CATEGORY_CODE
+IF NOT EXISTS(SELECT [category_name] FROM CATEGORY WHERE category_code=@CATEGORY_CODE)
+	BEGIN
+		PRINT 'CODE DOESNT EXSIST'
+       ROLLBACK TRANSACTION --  אם שגיאה בחלק הראשון , לא לבצע פעולות שלו אבל להמשיך בחלק השני
+		RETURN
+	 END
+COMMIT TRANSACTION
+GO
+
+
+/****** Object:  StoredProcedure [dbo].[CHECK_ID]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+--פונקצייה לבדיקת יוזר קיים
+CREATE PROC [dbo].[CHECK_ID]
+(@pass nvarchar(30),@user_name nvarchar(20),@user_mail nvarchar(40))
+AS
+DECLARE @check int
+SET @check=0
+IF EXISTS(select @user_name from USERS WHERE user_name=@user_name and user_mail=@user_mail)
+BEGIN
+	return 0 
+END
+ELSE 
+	EXEC SIGNֹIN @pass,@user_name,@user_mail
+GO
+
+
+/****** Object:  StoredProcedure [dbo].[DeleteProductToUser]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROC [dbo].[DeleteProductToUser]
+@code int
+AS
+BEGIN
+DELETE FROM [dbo].[PRODUCTS_TO_USER] WHERE product_code=@code
+END
+GO
+
+
+/****** Object:  StoredProcedure [dbo].[EXPORT_TABLES_TO_EXEL_BY_PARAMETER]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+--ייצוא לאקסל לפי פרמטר
+--export to excel
+CREATE PROC [dbo].[EXPORT_TABLES_TO_EXEL_BY_PARAMETER]
+@table_name nvarchar(40)
+AS
+BEGIN
+Declare @path  varchar(50)
+Declare @file_name  varchar(50)
+Declare @command  varchar(120)
+Set @path = 'D:\Gonen\'
+Set @file_name = @path +  @table_name + '.xls'
+-- התחביר למחשבים אישיים
+Set @command = 'bcp ' + db_name() + '.dbo.' + @table_name +  ' out "' + @file_name + '" -c -N -w -S.\SQLEXPRESS -T '
+print @command
+EXEC  master..xp_cmdshell   @command
+END
+GO
+/****** Object:  StoredProcedure [dbo].[GetIngDesc]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+create proc [dbo].[GetIngDesc]
+@name nvarchar(40)
+as
+begin
+return select [descript] from INGRIDENTS where ing_name=@name
+end
+GO
+
+
+/****** Object:  StoredProcedure [dbo].[GetProduct]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROC [dbo].[GetProduct]
+@user_id int
+AS
+BEGIN
+SELECT TOP 1 * FROM [dbo].[PRODUCTS_TO_USER] where [id] = @user_id order by product_code desc 
+END 
+GO
+
+
+/****** Object:  StoredProcedure [dbo].[Ings_In_Product]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROC [dbo].[Ings_In_Product]
+(@ing_code int)
+AS
+BEGIN
+declare @product_code int 
+set @product_code=(SELECT TOP 1 product_code FROM PRODUCT ORDER BY product_code desc)
+PRINT @product_code
+INSERT [dbo].[ING_IN_PRODCUT]([product_code],[ing_code])
+VALUES(@product_code,@ing_code)
+END
+GO
+
+
+
+/****** Object:  StoredProcedure [dbo].[INSERT_PRODUCT]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROC [dbo].[INSERT_PRODUCT]
+(@ID INT,@P_CODE INT,@D_SCAN DATE,@NAME_P nvarchar(30))
+AS
+BEGIN TRANSACTION
+UPDATE PRODUCTS_TO_USER
+  SET name_of_product = @NAME_P
+  WHERE product_code = @P_CODE AND id=@ID
+IF NOT EXISTS(SELECT * FROM USERS WHERE id=@ID)
+	BEGIN
+		PRINT 'CODE DOESNT EXSIST'
+       ROLLBACK TRANSACTION --  אם שגיאה בחלק הראשון , לא לבצע פעולות שלו אבל להמשיך בחלק השני
+		RETURN
+	 END
+COMMIT TRANSACTION
+GO
+
+
+/****** Object:  StoredProcedure [dbo].[LOGIN_USER]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROC [dbo].[LOGIN_USER]
+@user_mail nvarchar(max),
+@user_pass nvarchar(max)
+AS
+BEGIN
+SELECT*FROM USERS 
+WHERE user_mail=@user_mail and pass=@user_pass
+end
+GO
+
+
+/****** Object:  StoredProcedure [dbo].[PROC_LIST_FAVORITES]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROC [dbo].[PROC_LIST_FAVORITES]
+@id int
+AS
+BEGIN
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME = 'FAVORITES')
+DELETE FROM FAVORITES
+ELSE
+CREATE TABLE FAVORITES
+ (Category_Name nvarchar(10),Name_Of_Product nvarchar(20),descript nvarchar(20),User_Name nvarchar(20) NOT NULL,ID INT NOT NULL,id_prod int)
+INSERT FAVORITES(Category_Name,Name_Of_Product,descript,User_Name,ID,id_prod)
+SELECT*FROM SHOW_ALL_PRODUCTS_TO_USER WHERE id=@id
+SELECT*FROM FAVORITES 
+END
+GO
+
+
+/****** Object:  StoredProcedure [dbo].[PROC_LIST_OF_INGS]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROC [dbo].[PROC_LIST_OF_INGS]
+@product_code int
+AS
+BEGIN
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME = 'INGS')
+DELETE FROM INGS
+ELSE
+CREATE TABLE INGS
+ (Ing_Name nvarchar(30),descript nvarchar(max),product_code int,product_name nvarchar(30))
+INSERT INGS(Ing_Name,descript,product_code,product_name)
+SELECT * FROM INGRIDENTS_IN_PRODUCT WHERE product_code=@product_code
+SELECT*FROM INGS
+END
+GO
+
+
+/****** Object:  StoredProcedure [dbo].[Product_To_User]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROC [dbo].[Product_To_User]
+@id int
+AS
+BEGIN
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME = 'FAVORITES')
+DELETE FROM FAVORITES
+ELSE
+CREATE TABLE FAVORITES
+ (Name_Of_Product nvarchar(40),id_prod int,ID INT NOT NULL,DateOf Date,product_image nvarchar(max))
+INSERT FAVORITES(Name_Of_Product,id_prod,ID,DateOf,product_image)
+SELECT[name_of_product],[product_code],[id],[date_of_scan],product_image FROM PRODUCTS_TO_USER WHERE id=@id
+select  * from FAVORITES
+END
+GO
+
+
+/****** Object:  StoredProcedure [dbo].[Scan_by_year]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+CREATE PROC [dbo].[Scan_by_year]
+AS
+BEGIN
+SELECT YEAR([date_of_scan]) AS YEAR,COUNT(*) AS amount FROM PRODUCTS_TO_USER
+GROUP BY YEAR([date_of_scan])
+END
+GO
+
+
+/****** Object:  StoredProcedure [dbo].[SIGNֹIN]    Script Date: 10/08/2022 12:13:37 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+--פיונקציה להרשמה
+CREATE PROC [dbo].[SIGNֹIN]
+@pass nvarchar(30),
+@user_name nvarchar(20),
+@user_mail nvarchar(40)
+AS
+BEGIN
+	INSERT [dbo].[USERS]([pass],[user_name],[user_mail])
+	VALUES(@pass,@user_name,@user_mail)
+END
+GO
+USE [master]
+GO
+ALTER DATABASE [db_a79b5b_proj10] SET  READ_WRITE 
+GO
