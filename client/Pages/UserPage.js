@@ -13,19 +13,11 @@ import { initializeApp } from 'firebase/app';
 import { ref, getDownloadURL, uploadBytesResumable } from "firebase/storage";
 
 
-const firebaseConfig = {
-    apiKey: "AIzaSyBFcT499c7lLyjc7RPSh3Fshx0s6WXPHMI",
-    authDomain: "imageproduct-b7504.firebaseapp.com",
-    projectId: "imageproduct-b7504",
-    storageBucket: "imageproduct-b7504.appspot.com",
-    messagingSenderId: "670195787633",
-    appId: "1:670195787633:web:df34b73157575ed49638d0",
-    measurementId: "G-ML01NQLEYN"
-};
-
+/*
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 const storage = getStorage(app)
+*/
 
 let iamge_list = false
 let delete_image_flag = false
