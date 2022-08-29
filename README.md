@@ -6,6 +6,6 @@ and than the ingredients list sent aslo to api who return the explanation for ea
 
 
 
-![camera](https://user-images.githubusercontent.com/89662938/187233195-67ad1311-5648-4250-8b5c-47aa2aabb3d2.jpeg | width=100)
-![image](https://user-images.githubusercontent.com/89662938/187233194-fa440ef2-f0d3-46ec-822c-13ac18b19c58.jpeg | width=100)
-![data](https://user-images.githubusercontent.com/89662938/187233197-389541b9-dba0-4e73-8aa6-8e91e8989aa4.jpeg | width=100)
+![camera](https://user-images.githubusercontent.com/89662938/187233195-67ad1311-5648-4250-8b5c-47aa2aabb3d2.jpeg)
+![image](https://user-images.githubusercontent.com/89662938/187233194-fa440ef2-f0d3-46ec-822c-13ac18b19c58.jpeg)
+![data](https://user-images.githubusercontent.com/89662938/187233197-389541b9-dba0-4e73-8aa6-8e91e8989aa4.jpeg)
