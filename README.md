@@ -23,7 +23,4 @@ explantion
 <img src="https://user-images.githubusercontent.com/89662938/187236964-3b9488e6-7fd5-4088-a42e-0c97d07ccdea.jpeg" width="400" height="600">
 
 
-![camera]()
-![explantion]()
-![data]()
-![image]()
+
