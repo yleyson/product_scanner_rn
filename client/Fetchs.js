@@ -66,7 +66,7 @@ const getIngExplansion = async (ing_list) => {
             (error) => {
 
                 console.log("err GET=", error);
-                return { result: null }
+                return null
             });
 
     return ing_explansion;
@@ -313,6 +313,43 @@ const DeleteProduct = async (product) => {
 };
 
 
+const firebase_api = async (image) => {
+    console.log("dfgdfgfdgdf")
+
+    const text_result = await fetch('https://image-upload-firebase-api.herokuapp.com/api', {
+        method: 'POST',
+        body: image,
+        redirect: 'follow'
+    })
+        .then(res => {
+            console.log('res.status', res.status);
+            console.log('res.ok', res.ok);
+            if (res.ok) {
+                return res.json()
+            }
+            else
+                return null;
+
+        })
+        .then(
+            (result) => {
+                console.log("result", result);
+                return result
+            },
+            (error) => {
+
+                console.log("err GET=", error);
+                return null
+            });
+
+    return text_result
+
+};
 
 
-export { google_api, getIngExplansion, GetAllFavorites, GetIngsFromFavorites, GedtIngDesc, SaveProductToUser, GetLastProduct, AddImage, DeleteProduct };
+
+
+export {
+    google_api, getIngExplansion, GetAllFavorites, GetIngsFromFavorites,
+    GedtIngDesc, SaveProductToUser, GetLastProduct, AddImage, DeleteProduct, firebase_api
+};

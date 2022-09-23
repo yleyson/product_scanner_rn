@@ -23,7 +23,7 @@ const LoginModal = () => {
     const { user, SetUser } = useContext(UserContext);
 
 
-    const changeState=()=>{
+    const changeState = () => {
         setSignUpVisible(true)
         setModalVisible(false)
     }
@@ -45,7 +45,7 @@ const LoginModal = () => {
                     <View style={styles.centeredView}>
                         <TouchableWithoutFeedback>
                             <View style={styles.modalView}>
-                                <LoginPage setVisibleProp={changeState}  setEmailProp={(emailInput) => setEmail(emailInput)} setPassProp={(passInput) => setPass(passInput)} />
+                                <LoginPage setVisibleProp={changeState} setEmailProp={(emailInput) => setEmail(emailInput)} setPassProp={(passInput) => setPass(passInput)} />
                                 <Button style={styles.buttonClose} mode="contained" color="black"
                                     onPress={() => { LoginIn(email, pass); setModalVisible(!modalVisible) }}>התחבר</Button>
                             </View>
@@ -71,9 +71,9 @@ const LoginModal = () => {
                     <View style={styles.centeredView}>
                         <TouchableWithoutFeedback>
                             <View style={styles.modalView}>
-                                <SignUp setUserNameProp={(userNameInput)=>setUserName(userNameInput)} setEmailProp={(emailInput) => setEmail(emailInput)} setPassProp={(passInput) => setPass(passInput)} />
+                                <SignUp setUserNameProp={(userNameInput) => setUserName(userNameInput)} setEmailProp={(emailInput) => setEmail(emailInput)} setPassProp={(passInput) => setPass(passInput)} />
                                 <Button style={styles.buttonClose} mode="contained" color="black"
-                                    onPress={() => { SignUpIn(userName,email,pass); setSignUpVisible(!signUpVisible) }}>הרשם</Button>
+                                    onPress={() => { SignUpIn(userName, email, pass); setSignUpVisible(!signUpVisible) }}>הרשם</Button>
                             </View>
                         </TouchableWithoutFeedback>
 
@@ -81,9 +81,9 @@ const LoginModal = () => {
                 </TouchableOpacity>
             </Modal>
 
-            
-            {user===null?<Button onPress={() => setModalVisible(true)} style={{ marginRight: 10 }}>התחבר</Button>:null}
-            </View>
+
+            {user === null ? <Button color='black' onPress={() => setModalVisible(true)} style={{ marginRight: 10 }}>התחבר</Button> : null}
+        </View>
     );
 };
 

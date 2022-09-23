@@ -10,6 +10,7 @@ import UserContextProvider from './Context/UserContext';
 export default function App() {
 
 
+
   return (
     <SafeAreaProvider>
       <StatusBar backgroundColor="gray" barStyle="light-content" />

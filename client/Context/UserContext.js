@@ -2,6 +2,12 @@ import { createContext, useEffect, useState } from 'react';
 import User from '../Classes/User';
 import { Base64 } from 'js-base64';
 import { Alert } from "react-native";
+import gluten from '../assets/filter_icons/gluten.png'
+import eggs from '../assets/filter_icons/eggs.png'
+import lactose from '../assets/filter_icons/lactose.png'
+import peants from '../assets/filter_icons/peants.png'
+import nuts from '../assets/filter_icons/nuts.png'
+import fish from '../assets/filter_icons/fish.png'
 
 export const UserContext = createContext();
 
@@ -17,6 +23,18 @@ export default function UserContextProvider({ children }) {
     const [productDict, setProductDict] = useState({})
     const [imageLIst, setImageLIst] = useState(null)
     const [firstLoad, setFirstLoad] = useState(false)
+
+    const [sensitivity, setSensitivity] = useState([
+        { id: 1, title: 'לקטוז', select: false, icon: lactose, sens: ['חלב'] },
+        { id: 2, title: 'גלוטן', select: false, icon: gluten, sens: ['חיטה', 'שעורה'] },
+        { id: 3, title: 'אגוזים', select: false, icon: nuts, sens: ['אגוזי',] },
+        { id: 4, title: 'בוטנים', select: false, icon: peants, sens: ['בוטן'] },
+        { id: 5, title: 'ביצים', select: false, icon: eggs, sens: ['ביצה', 'ביצי'] },
+        { id: 6, title: 'דגים', select: false, icon: fish, sens: ['דג', 'דגי', `ג'לטין`, 'גילטין', 'גלטין'] },
+
+    ]);
+
+
 
     const ShowDialog = () => {
         Alert.alert(
@@ -169,7 +187,8 @@ export default function UserContextProvider({ children }) {
     return (
         <UserContext.Provider value={{
             user, SetUser, LoginIn, SignUpIn, setProductList,
-            setProductDict, productList, productDict, imageLIst, setImageLIst, firstLoad, setFirstLoad
+            setProductDict, productList, productDict, imageLIst, setImageLIst, firstLoad, setFirstLoad,
+            sensitivity, setSensitivity
         }}>
             {children}
         </UserContext.Provider>

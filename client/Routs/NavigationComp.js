@@ -8,6 +8,7 @@ import { Drawer } from 'react-native-paper';
 import HomePage from '../Pages/HomePage'
 import CameraPage from '../Pages/CameraPage'
 import UserPage from '../Pages/UserPage'
+import FilterPage from '../Pages/FilterPage'
 import LoginModal from '../Components/LoginModal'
 import { UserContext } from '../Context/UserContext';
 import LoginAlert from '../Components/LoginAlert'
@@ -23,7 +24,7 @@ export default function NavigationComp() {
 
 
     const LogOut = () => {
-        return user == null ? <LoginModal /> : <Button onPress={() => { SetUser(null); setProductDict({}); setProductList([]); setFirstLoad(false) }}>התנתק</Button>
+        return user == null ? <LoginModal /> : <Button color='black' onPress={() => { SetUser(null); setProductDict({}); setProductList([]); setFirstLoad(false) }}>התנתק</Button>
     }
 
 
@@ -40,6 +41,12 @@ export default function NavigationComp() {
 
                     }} />
                 <DrawerNav.Screen name="מצלמה" component={CameraPage}
+                    options={{
+                        headerRight: () => (
+                            LogOut()
+                        ),
+                    }} />
+                <DrawerNav.Screen name="אלרגיות" component={FilterPage}
                     options={{
                         headerRight: () => (
                             LogOut()

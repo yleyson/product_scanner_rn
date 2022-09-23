@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Alert, Modal, StyleSheet, Text, Pressable, View, FlatList, TouchableOpacity, TouchableWithoutFeedback, ScrollView } from 'react-native';
+
 import { Button, TextInput } from 'react-native-paper';
 import { FontAwesomeIcon } from '@fortawesome/react-native-fontawesome'
 import Icon from 'react-native-vector-icons/FontAwesome';
@@ -24,10 +25,13 @@ const DescIngModal = ({ btn_text, text }) => {
                     onPressOut={() => setModalVisible(!modalVisible)}
                 >
                     <View style={styles.centeredView}>
-                        <TouchableWithoutFeedback>
-                            <View style={styles.modalView}>
-                                <ScrollView>
-                                    <Text>{text}</Text>
+                        <TouchableWithoutFeedback >
+                            <View style={styles.modalView} >
+                                <ScrollView style={{ marginBottom: 2 }}>
+                                    <TouchableOpacity
+                                        activeOpacity={1}>
+                                        <Text style={{ fontSize: 20 }}>{text}</Text>
+                                    </TouchableOpacity>
                                 </ScrollView>
                                 <Button style={styles.buttonClose} mode="contained" color="black" onPress={() => setModalVisible(!modalVisible)}>סגור</Button>
                             </View>
@@ -61,12 +65,12 @@ const styles = StyleSheet.create({
         padding: 5
     },
     modalView: {
-        height: 500,
+        height: 520,
         width: 300,
         margin: 20,
         backgroundColor: 'white',
         borderRadius: 20,
-        padding: 35,
+        padding: 25,
         shadowColor: '#000',
         shadowOffset: {
             width: 0,
@@ -82,6 +86,7 @@ const styles = StyleSheet.create({
     buttonOpen: {
     },
     buttonClose: {
+        marginTop: 3
     },
     textStyle: {
         color: 'black',

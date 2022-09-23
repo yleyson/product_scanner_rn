@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Modal, StyleSheet, View, TouchableOpacity, TouchableWithoutFeedback } from 'react-native';
+import { Modal, StyleSheet, View, TouchableOpacity, TouchableWithoutFeedback, Alert } from 'react-native';
 import { Button, TextInput } from 'react-native-paper';
 
 
@@ -34,7 +34,16 @@ const AddIngModal = ({ addIng }) => {
 
                                     />
                                     <Button style={styles.buttonClose} mode="contained" color="black"
-                                        onPress={() => { addIng(text); setModalVisible(!modalVisible) }}>הוסף רכיב</Button>
+                                        onPress={() => {
+                                            if (text == "") {
+                                                Alert.alert("חובה להכניס רכיבגכגכגכ")
+                                            }
+                                            else {
+                                                addIng(text)
+                                                    ; setModalVisible(!modalVisible)
+                                            }
+
+                                        }}>הוסף רכיב</Button>
                                 </View>
 
                             </View>

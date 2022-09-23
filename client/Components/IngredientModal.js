@@ -33,7 +33,7 @@ const IngredientModal = ({ ingredients }) => {
                                     keyExtractor={(item) => item.name}
                                     renderItem={({ item }) => (
                                         <View style={styles.ingredientsView}>
-                                            <DescIngModal btn_text={item.name} text={item.desc} />
+                                            <DescIngModal btn_text={item.name} text={item.description} />
                                         </View>
 
                                     )}
