@@ -14,18 +14,6 @@ import { UserContext } from '../Context/UserContext';
 import alergic_x from '../assets/alregic_x.png'
 
 
-let str = ",רכיבים: קמח חיטה מלא (3.8%) (מכיל גלוטן), ממתיקים"
-str += "\n"
-str += ",בוטנים, קמח שיבולת שועל מלא"
-str += "\n"
-str += ",עמילן תירס, סובין חיטה, קמח תירס,(מכיל גלוטן)"
-str += "\n"
-str += "סיבי עולש, מלח, חומר תפיחה (סודיום ביקרבונט), חומר"
-str += "\n"
-str += "מונע התגיישות (מגנזיום קרבונט), אבקת קקאו, מעכב"
-str += "\n"
-str += "חמצון."
-
 let ing_to_put = {}
 let current_ing = ""
 let ing_list_ocr
@@ -120,11 +108,10 @@ export default function CameraPage() {
         console.log("img")
 
         // get the text from image
-        //const text_from_img = await google_api(imageData.base64)
+        const text_from_img = await google_api(imageData.base64)
         console.log('====================================');
         console.log(str);
         console.log('====================================');
-        const text_from_img = str
         console.log(text_from_img)
 
 
